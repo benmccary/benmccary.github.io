@@ -1,6 +1,6 @@
 ---
 title:  "Starting my Blog"
-date:   2016-01-08 15:04:23
+date:   2016-06-03 15:04:23
 categories: [jekyll]
 tags: [jekyll]
 ---
