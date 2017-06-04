@@ -1,9 +1,9 @@
 /* TEAM */
-Developer & Designer: Josh Gerdes
-Twitter: @joshgerdes
-Site: http://joshgerdes.com
-Location: Minneapolis, MN, USA
-						
+Developer & Designer: Ben McCary
+Twitter: @benmccary
+Site: http://benmccary.github.io
+Location: Seattle, WA, USA
+
 /* THANKS */
 Name: Dale Anthony
 
