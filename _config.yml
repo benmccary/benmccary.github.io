@@ -2,17 +2,16 @@
 title: Ben McCary
 description: 'A site about me, a wonderful guy.'
 url: 'http://benmccary.github.io'
-baseurl: ''
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+baseurl: '/'
+
 
 author:
-  name: 'Ben McCary'
+  name: 'Ben MCCary'
   email: benjamin.mccary@gmail.com
   twitter_username: benmccary
-  facebook_username: benmccary
+  facebook_username: ben.mccary9
   github_username:  benmccary
-  linkedin_username:  benmccary
+  linkedin_username:  ben-mccary-47651189
 
 defaults:
   -
