@@ -1,8 +1,10 @@
 ---
+layout: post
 title:  "Some Anecdotes From AAP Analysis"
 date:   2016-04-19 15:04:23
-categories: [jekyll]
-tags: [jekyll]
+categories: [Affirmative Action]
+tags: [data analysis]
+comments: true
 ---
 At my job I get to tell companies when they don't hire, fire, promote, or pay fairly. It's kind of an honor, but often times it just feels like I'm just going through the motions. I was recently working with a mid-sized company in the PNW and I remember going through the standard stuff. I don't remember the specifics, but it's the typical stuff that comes up with most companies, "you're paying your female executives significantly less than the men, promoting working class black men at a significantly lower rate than whites, etc." It was the standard gig and their HR director was actually working hard to fix their issues.
 

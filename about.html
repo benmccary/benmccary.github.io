@@ -1,0 +1,21 @@
+---
+layout: default_page
+---
+
+<div class="main-post-list post">
+
+<h2>  {{site.data.settings.blurb-header }} </h2>
+
+<div>
+  <p>
+  {{site.data.settings.blurb }}
+</p>
+</div>
+
+  <hr class="post-list__divider ">
+
+  {% if paginator.previous_page or paginator.next_page %}
+      {% include pagination.html %}
+  {% endif %}
+
+</div>
